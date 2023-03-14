@@ -31,6 +31,7 @@ Street-view with Major Earthquake Overlay Only
 ![Major_Eathquake_Overlay_Only](https://user-images.githubusercontent.com/119131202/225161616-ac2e88fa-3c30-48e2-a557-f46f364f40b3.PNG)
 ---
 This map allows you to view the data in many viewpoints and layers, which allows for an accurate view of earthquakes, tectonic plates, and major earthquakes.
+---
 Data Anlysis Performed by Katelin Catton
 3/14/23
 
